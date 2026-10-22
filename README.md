@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=raman-saluja)
+<img src="https://komarev.com/ghpvc/?username=raman-saluja&style=flat-square" width="1" height="1" alt="" />
